@@ -17,23 +17,21 @@
   <!-- Tech Stack kiri -->
   <div style="flex: 0 0 300px; text-align: start;">
     <h3>🧠 Tech Stack</h3>
-    <div align="start">
+    <div>
       <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap" />
       <br />
       <img src="https://skillicons.dev/icons?i=django,flask,laravel,jquery,nginx,mongodb,mysql" />
       <br />
       <img src="https://skillicons.dev/icons?i=docker,git,github,arduino,figma,photoshop" />
     </div>
-    <img align="end" src="https://media1.tenor.com/m/eXf-VxzSeXcAAAAC/dr-stone-senku.gif" alt="Senku Ishigami" height="220" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-    <p><em>“It’s all about the science!” - Senku</em></p>
-
+    
   </div>
 
   <!-- GIF kanan -->
-  <!-- <div  style="flex: 0 0 250px; text-align: center;">
+  <div  style="flex: 0 0 250px; text-align: center;">
     <img align="end" src="https://media1.tenor.com/m/eXf-VxzSeXcAAAAC/dr-stone-senku.gif" alt="Senku Ishigami" height="220" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     <p><em>“It’s all about the science!” - Senku</em></p>
-  </div> -->
+  </div>
 
 </div>
 
