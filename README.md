@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![RFI21](/your-header-image-name.png)
+![RFI21](/img/github.png)
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -14,21 +14,10 @@
 ---
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: nowrap;">
 
-  <!-- Tech Stack kiri -->
-  <div style="flex: 0 0 300px; text-align: start;">
-    <h3>🧠 Tech Stack</h3>
-    <div>
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=django,flask,laravel,jquery,nginx,mongodb,mysql" />
-      <br />
-      <img src="https://skillicons.dev/icons?i=docker,git,github,arduino,figma,photoshop" />
-    </div>
-    
-  </div>
+
 
   <!-- GIF kanan -->
-  <div align="end" style="flex: 0 0 250px; text-align: center;">
+  <div align="center" style="flex: 0 0 250px; text-align: center;">
     <img  src="https://media1.tenor.com/m/eXf-VxzSeXcAAAAC/dr-stone-senku.gif" alt="Senku Ishigami" height="220" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     <p><em>“It’s all about the science!” - Senku</em></p>
   </div>
