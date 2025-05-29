@@ -28,8 +28,8 @@
   </div>
 
   <!-- GIF kanan -->
-  <div  style="flex: 0 0 250px; text-align: center;">
-    <img align="end" src="https://media1.tenor.com/m/eXf-VxzSeXcAAAAC/dr-stone-senku.gif" alt="Senku Ishigami" height="220" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <div align="end" style="flex: 0 0 250px; text-align: center;">
+    <img  src="https://media1.tenor.com/m/eXf-VxzSeXcAAAAC/dr-stone-senku.gif" alt="Senku Ishigami" height="220" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
     <p><em>“It’s all about the science!” - Senku</em></p>
   </div>
 
