@@ -1,5 +1,9 @@
 <!-- Header Image -->
+
 ![RFI21](/img/github3.png)
+<div align="center">
+ <img src="/img/github3.png"  />
+</div>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
