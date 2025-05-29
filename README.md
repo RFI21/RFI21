@@ -1,17 +1,9 @@
 <!-- Header Image -->
-<p align="center">
-  <img src="/img/github-header-image.png" alt="RFI21 GitHub Header" />
-</p>
+![RFI21](/img/github-header-image.png)
 
-<!-- Senku GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/OBdVFeayb68AAAAC/dr-stone-senku.gif" alt="Senku Ishigami" height="200" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-
-<h1 align="center">Hi there, I'm <a href="https://github.com/RFI21" target="_blank">RFI21</a> 👋</h1>
-<p align="center">💻 Full Stack Developer | 🎨 Creative Technologist | ⚗️ Science Lover (like Senku!)</p>
-
----
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
@@ -20,11 +12,38 @@
 </div>
 
 ---
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: nowrap;">
+
+  <!-- Tech Stack kiri -->
+  <div style="flex: 0 0 300px; text-align: start;">
+    <h3>🧠 Tech Stack</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=django,flask,laravel,jquery,nginx,mongodb,mysql" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=docker,git,github,arduino,figma,photoshop" />
+    </div>
+  </div>
+
+  <!-- GIF kanan -->
+  <div style="flex: 0 0 250px; text-align: center;">
+    <img src="https://media1.tenor.com/m/eXf-VxzSeXcAAAAC/dr-stone-senku.gif" alt="Senku Ishigami" height="220" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    <p><em>“It’s all about the science!” - Senku</em></p>
+  </div>
+
+</div>
+
+
+
+---
+
 
 ### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap,django,flask,laravel,jquery,jwt,jinja,npm,apache,nginx,mongodb,mysql,docker,git,github,arduino,cisco,figma,photoshop,premierepro,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,bootstrap,django,flask,laravel,jquery,nginx,mongodb,mysql,docker,git,github,arduino,figma,photoshop" />
+
 </p>
 
 ---
@@ -59,13 +78,7 @@
 </picture>
 
 ---
+<p align="center">Made with 💡 and <strong>Tecnology </strong>💻</p>
 
-### 🚀 Let's Connect!
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=RFI21&icon=0&color=0" />
-</p>
 
----
-
-<p align="center">Made with 💡 and a little bit of <strong>Science</strong> 🧪</p>
