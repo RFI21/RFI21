@@ -1,7 +1,15 @@
 <!-- Header Image -->
+<!-- About Me Section -->
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<div align="center">
+
+  <p>
+    I'm <strong>Muh. Rifai</strong><br/> Fullstack Developer | Design | Editor
+
+
 </div>
 
 <div align="center">
